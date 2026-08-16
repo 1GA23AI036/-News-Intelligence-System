@@ -1,0 +1,1077 @@
+article_id,entity,type,description,start,end
+1,totam rem aperiam,PERSON,"People, including fictional",98,115
+1,quae ab illo,ORG,"Companies, agencies, institutions, etc.",128,140
+1,vitae dicta,PERSON,"People, including fictional",188,199
+1,eos qui,PERSON,"People, including fictional",328,335
+1,Neque porro quisquam est,LAW,Named documents made into laws.,371,395
+1,qui dolorem,PERSON,"People, including fictional",397,408
+1,consectetur,GPE,"Countries, cities, states",436,447
+1,adipisci velit,PERSON,"People, including fictional",449,463
+1,tempora,NORP,Nationalities or religious or political groups,496,503
+1,minima veniam,PERSON,"People, including fictional",579,592
+1,exercitationem ullam corporis,ORG,"Companies, agencies, institutions, etc.",607,636
+1,suscipit laboriosam,PERSON,"People, including fictional",637,656
+1,nisi,PERSON,"People, including fictional",658,662
+1,quam nihil molestiae consequatur,PERSON,"People, including fictional",770,802
+1,qui dolorem,PERSON,"People, including fictional",814,825
+2,totam rem aperiam,PERSON,"People, including fictional",98,115
+2,quae ab illo,ORG,"Companies, agencies, institutions, etc.",128,140
+2,vitae dicta,PERSON,"People, including fictional",188,199
+2,eos qui,PERSON,"People, including fictional",328,335
+2,Neque porro quisquam est,LAW,Named documents made into laws.,371,395
+2,qui dolorem,PERSON,"People, including fictional",397,408
+2,consectetur,GPE,"Countries, cities, states",436,447
+2,adipisci velit,PERSON,"People, including fictional",449,463
+2,tempora,NORP,Nationalities or religious or political groups,496,503
+2,minima veniam,PERSON,"People, including fictional",579,592
+2,exercitationem ullam corporis,ORG,"Companies, agencies, institutions, etc.",607,636
+2,suscipit laboriosam,PERSON,"People, including fictional",637,656
+2,nisi,PERSON,"People, including fictional",658,662
+2,quam nihil molestiae consequatur,PERSON,"People, including fictional",770,802
+2,qui dolorem,PERSON,"People, including fictional",814,825
+3,jetë vendimtare,PERSON,"People, including fictional",190,205
+3,muzikë,PERSON,"People, including fictional",251,257
+3,kanë merita puna,PERSON,"People, including fictional",303,319
+3,këmbëngulja dhe talenti,PERSON,"People, including fictional",321,344
+3,zbulon studimi,PERSON,"People, including fictional",346,360
+3,jetë vendimtare,PERSON,"People, including fictional",580,595
+3,muzikë,PERSON,"People, including fictional",641,647
+3,kanë merita puna,PERSON,"People, including fictional",693,709
+3,këmbëngulja dhe talenti,PERSON,"People, including fictional",711,734
+3,zbulon studimi,PERSON,"People, including fictional",736,750
+4,këngës “Hello,ORG,"Companies, agencies, institutions, etc.",32,45
+4,kritiku,PERSON,"People, including fictional",60,67
+4,Guardian,ORG,"Companies, agencies, institutions, etc.",88,96
+4,Dave Simpson,PERSON,"People, including fictional",98,110
+4,Doors,ORG,"Companies, agencies, institutions, etc.",179,184
+4,kësaj kënge,PERSON,"People, including fictional",238,249
+4,Këto,PERSON,"People, including fictional",251,255
+4,John Densmore,PERSON,"People, including fictional",287,300
+4,Robby Krieger,PERSON,"People, including fictional",315,328
+4,Sun,ORG,"Companies, agencies, institutions, etc.",403,406
+4,Telegrafi,PERSON,"People, including fictional",538,547
+4,John Densmore,PERSON,"People, including fictional",549,562
+4,Jim Morrison,PERSON,"People, including fictional",564,576
+4,kur,NORP,Nationalities or religious or political groups,632,635
+4,Rick & Ravens,ORG,"Companies, agencies, institutions, etc.",666,679
+4,Trotuari,ORG,"Companies, agencies, institutions, etc.",682,690
+4,si qeni,PERSON,"People, including fictional",717,724
+4,lyp diçka,PERSON,"People, including fictional",728,737
+4,Është,PERSON,"People, including fictional",749,754
+4,nuk,PERSON,"People, including fictional",782,785
+4,Venecie,PERSON,"People, including fictional",926,933
+4,Los Angjelos,GPE,"Countries, cities, states",937,949
+4,1960,DATE,Absolute or relative dates or periods,998,1002
+4,kur Jimi,PERSON,"People, including fictional",1004,1012
+5,dhe,ORG,"Companies, agencies, institutions, etc.",45,48
+5,Ndani,PERSON,"People, including fictional",65,70
+5,dhe,ORG,"Companies, agencies, institutions, etc.",81,84
+5,mjedre,PERSON,"People, including fictional",114,120
+5,çokollatën,ORG,"Companies, agencies, institutions, etc.",133,143
+5,dhe biskotat dhe,ORG,"Companies, agencies, institutions, etc.",144,160
+5,gjitha,GPE,"Countries, cities, states",164,170
+5,Qitni,PERSON,"People, including fictional",181,186
+5,kuti plastike,PERSON,"People, including fictional",190,203
+5,transmeton Tundni,ORG,"Companies, agencies, institutions, etc.",246,263
+5,dhe,ORG,"Companies, agencies, institutions, etc.",302,305
+5,Ndani,PERSON,"People, including fictional",322,327
+5,dhe,ORG,"Companies, agencies, institutions, etc.",338,341
+5,mjedre,PERSON,"People, including fictional",371,377
+5,çokollatën,ORG,"Companies, agencies, institutions, etc.",390,400
+5,dhe biskotat dhe,ORG,"Companies, agencies, institutions, etc.",401,417
+5,gjitha,GPE,"Countries, cities, states",421,427
+5,Qitni,PERSON,"People, including fictional",438,443
+5,kuti plastike,PERSON,"People, including fictional",447,460
+5,transmeton,ORG,"Companies, agencies, institutions, etc.",503,513
+6,1,CARDINAL,Numerals that do not fall under another type,0,1
+6,enë,CARDINAL,Numerals that do not fall under another type,10,13
+6,përzieni,NORP,Nationalities or religious or political groups,14,22
+6,majdanozin,GPE,"Countries, cities, states",41,51
+6,kripën dhe piperin,PERSON,"People, including fictional",71,89
+6,2,CARDINAL,Numerals that do not fall under another type,91,92
+6,djegës dhe,PERSON,"People, including fictional",106,116
+6,gatuani katër,PERSON,"People, including fictional",117,130
+6,3.,CARDINAL,Numerals that do not fall under another type,140,142
+6,hamburgerët,PERSON,"People, including fictional",195,206
+6,5,CARDINAL,Numerals that do not fall under another type,211,212
+6,1,CARDINAL,Numerals that do not fall under another type,235,236
+6,enë,CARDINAL,Numerals that do not fall under another type,245,248
+6,përzieni,NORP,Nationalities or religious or political groups,249,257
+6,majdanozin,GPE,"Countries, cities, states",276,286
+6,kripën dhe piperin,PERSON,"People, including fictional",306,324
+6,2,CARDINAL,Numerals that do not fall under another type,326,327
+6,djegës dhe,PERSON,"People, including fictional",341,351
+6,gatuani katër,PERSON,"People, including fictional",352,365
+6,3.,CARDINAL,Numerals that do not fall under another type,375,377
+6,hamburgerët,PERSON,"People, including fictional",430,441
+6,5,CARDINAL,Numerals that do not fall under another type,446,447
+7,nuk po mbesin indiferent ndaj këtij trendi,PERSON,"People, including fictional",15,57
+7,Kompania,GPE,"Countries, cities, states",102,110
+7,Design Epicentrum,PERSON,"People, including fictional",118,135
+7,Lamborghini Aventador,PERSON,"People, including fictional",225,246
+7,ajo nuk vije,PERSON,"People, including fictional",280,292
+7,30,CARDINAL,Numerals that do not fall under another type,338,340
+7,janë një shumë absurde,PERSON,"People, including fictional",355,377
+7,44,CARDINAL,Numerals that do not fall under another type,491,493
+7,kanë,PERSON,"People, including fictional",508,512
+7,deri më tani,PERSON,"People, including fictional",520,532
+7,ta kenë një,PERSON,"People, including fictional",543,554
+8,Federer,ORG,"Companies, agencies, institutions, etc.",0,7
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",40,58
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",91,109
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",142,160
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",193,211
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",244,262
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",295,313
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",346,364
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",397,415
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",448,466
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",499,517
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",550,568
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",601,619
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",652,670
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",703,721
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",754,772
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",805,823
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",856,874
+8,Augsburgun Federer,ORG,"Companies, agencies, institutions, etc.",907,925
+9,Duke,ORG,"Companies, agencies, institutions, etc.",0,4
+9,Opinion,WORK_OF_ART,"Titles of books, songs, etc.",29,36
+9,gazetarët,PERSON,"People, including fictional",54,63
+9,m’u,GPE,"Countries, cities, states",66,69
+9,është se,PERSON,"People, including fictional",170,178
+9,Rama,PERSON,"People, including fictional",206,210
+9,Stadiumi,PERSON,"People, including fictional",253,261
+9,Teatri,ORG,"Companies, agencies, institutions, etc.",264,270
+9,para apo sëmundja,PERSON,"People, including fictional",354,371
+9,mendon se historia,PERSON,"People, including fictional",409,427
+9,Ka,PERSON,"People, including fictional",442,444
+10,Kancelarja,GPE,"Countries, cities, states",0,10
+10,Angela Merkel,PERSON,"People, including fictional",21,34
+10,Britanisë së Madhe,LOC,"Non-GPE locations, mountain ranges, bodies of water",93,111
+10,Bashkimi Evropian,ORG,"Companies, agencies, institutions, etc.",116,133
+10,një atmosferë,PERSON,"People, including fictional",138,151
+10,Michel Barnierin,PERSON,"People, including fictional",290,306
+10,dhe,ORG,"Companies, agencies, institutions, etc.",327,330
+10,grindje,PERSON,"People, including fictional",356,363
+10,Ndërsa,PERSON,"People, including fictional",365,371
+10,Brexit,PERSON,"People, including fictional",408,414
+10,Dominic Raab,PERSON,"People, including fictional",416,428
+10,Merkel,PERSON,"People, including fictional",471,477
+10,Salsburg,PRODUCT,"Objects, vehicles, foods, etc. (not services)",501,509
+10,Ajo,PERSON,"People, including fictional",607,610
+10,janë,PERSON,"People, including fictional",646,650
+10,mendimi,PERSON,"People, including fictional",658,665
+10,nuk,PERSON,"People, including fictional",679,682
+10,Merkeli janë marrëdhëniet,PERSON,"People, including fictional",691,716
+10,Kryeministrja,ORG,"Companies, agencies, institutions, etc.",728,741
+10,Theresa,ORG,"Companies, agencies, institutions, etc.",753,760
+10,brendshëm,GPE,"Countries, cities, states",784,793
+10,mallrat,PERSON,"People, including fictional",798,805
+10,nuk,PERSON,"People, including fictional",819,822
+11,Jemi,PERSON,"People, including fictional",0,4
+11,Kosova,ORG,"Companies, agencies, institutions, etc.",67,73
+11,Shqipëria,PERSON,"People, including fictional",91,100
+11,Po sa,FAC,"Buildings, airports, highways, bridges, etc.",160,165
+12,zhvillohen prej,PERSON,"People, including fictional",61,76
+12,një,ORG,"Companies, agencies, institutions, etc.",82,85
+12,Shqipërisë dhe Greqisë,ORG,"Companies, agencies, institutions, etc.",97,119
+12,figuron edhe një,ORG,"Companies, agencies, institutions, etc.",184,200
+12,Shqipëri,PERSON,"People, including fictional",247,255
+12,Aleksis Cipras,ORG,"Companies, agencies, institutions, etc.",367,381
+12,9,CARDINAL,Numerals that do not fall under another type,386,387
+12,Madje,PERSON,"People, including fictional",397,402
+12,është një,PERSON,"People, including fictional",432,441
+12,nga kushtet,PERSON,"People, including fictional",442,453
+12,Greqia,PERSON,"People, including fictional",458,464
+12,Shqipërisë,ORG,"Companies, agencies, institutions, etc.",474,484
+12,BE,ORG,"Companies, agencies, institutions, etc.",544,546
+12,nga kryeministrat dhe,PERSON,"People, including fictional",566,587
+12,Çfarë,PERSON,"People, including fictional",648,653
+12,Shqipëri,PERSON,"People, including fictional",696,704
+12,Asnjeri nuk,PERSON,"People, including fictional",791,802
+12,kanë,PERSON,"People, including fictional",833,837
+12,Nuk,PERSON,"People, including fictional",932,935
+12,30,CARDINAL,Numerals that do not fall under another type,985,987
+12,dhe hapat e një,ORG,"Companies, agencies, institutions, etc.",1126,1141
+12,Athinës,ORG,"Companies, agencies, institutions, etc.",1168,1175
+12,Shqipëri,GPE,"Countries, cities, states",1206,1214
+13,Maqedonisë Me,ORG,"Companies, agencies, institutions, etc.",74,87
+13,Maqedonisë Me,ORG,"Companies, agencies, institutions, etc.",159,172
+13,Maqedonisë Me,ORG,"Companies, agencies, institutions, etc.",244,257
+13,Maqedonisë Me,ORG,"Companies, agencies, institutions, etc.",329,342
+13,Maqedonisë,PERSON,"People, including fictional",414,424
+14,Vendimi,PERSON,"People, including fictional",0,7
+14,KPA,ORG,"Companies, agencies, institutions, etc.",10,13
+14,Albana Shtylla,PERSON,"People, including fictional",54,68
+14,Ina Rama,LOC,"Non-GPE locations, mountain ranges, bodies of water",79,87
+14,Luan Daci,PERSON,"People, including fictional",100,109
+14,Natasha Mulaj,PERSON,"People, including fictional",111,124
+14,Rezarta Schuetz,PERSON,"People, including fictional",126,141
+14,Kolegji i Posaçëm,PERSON,"People, including fictional",143,160
+14,66,DATE,Absolute or relative dates or periods,215,217
+14,1,CARDINAL,Numerals that do not fall under another type,224,225
+14,84/2016,NORP,Nationalities or religious or political groups,253,260
+14,Republikën e Shqipërisë,ORG,"Companies, agencies, institutions, etc.",321,344
+14,Kolegji i,PERSON,"People, including fictional",373,382
+14,plotë,GPE,"Countries, cities, states",432,437
+14,30,CARDINAL,Numerals that do not fall under another type,458,460
+15,Maqedonia,GPE,"Countries, cities, states",13,22
+15,Euro-Atlantike,ORG,"Companies, agencies, institutions, etc.",71,85
+15,Vllado Buçkovski,PERSON,"People, including fictional",100,116
+15,Bloomberg,WORK_OF_ART,"Titles of books, songs, etc.",217,226
+15,Telegrafi Maqedoni,ORG,"Companies, agencies, institutions, etc.",238,256
+15,Referendumi,PERSON,"People, including fictional",259,270
+15,Maqedoninë,PERSON,"People, including fictional",307,317
+15,drejtë zgjedhjes,PERSON,"People, including fictional",339,355
+15,Greqinë,GPE,"Countries, cities, states",396,403
+15,700,CARDINAL,Numerals that do not fall under another type,480,483
+15,Maqedonisë,PERSON,"People, including fictional",501,511
+15,janë kundër,PERSON,"People, including fictional",580,591
+15,tha Buçkovski,PERSON,"People, including fictional",594,607
+16,kanë keqpërdor,PERSON,"People, including fictional",58,72
+16,janë,PERSON,"People, including fictional",88,92
+16,kanë,PERSON,"People, including fictional",124,128
+16,kanë,PERSON,"People, including fictional",157,161
+16,PDK,ORG,"Companies, agencies, institutions, etc.",170,173
+16,Janë,PERSON,"People, including fictional",178,182
+16,keni,ORG,"Companies, agencies, institutions, etc.",205,209
+16,nuk janë,PERSON,"People, including fictional",271,279
+16,Kosovën,PERSON,"People, including fictional",412,419
+16,PDK,ORG,"Companies, agencies, institutions, etc.",458,461
+16,nuk është konflikti,PERSON,"People, including fictional",465,484
+16,është mirëqenia,PERSON,"People, including fictional",486,501
+16,është zhvillimi ekonomik,PERSON,"People, including fictional",516,540
+16,dhe,ORG,"Companies, agencies, institutions, etc.",567,570
+16,KP,GPE,"Countries, cities, states",627,629
+16,Veseli,PERSON,"People, including fictional",631,637
+16,PDK,ORG,"Companies, agencies, institutions, etc.",660,663
+16,jenë,GPE,"Countries, cities, states",670,674
+16,procesi,NORP,Nationalities or religious or political groups,690,697
+16,Kosovë,PERSON,"People, including fictional",710,716
+16,PDK,ORG,"Companies, agencies, institutions, etc.",731,734
+16,PDK,ORG,"Companies, agencies, institutions, etc.",794,797
+16,PDK,ORG,"Companies, agencies, institutions, etc.",891,894
+16,ndërsa fton,PERSON,"People, including fictional",899,910
+16,PDK,ORG,"Companies, agencies, institutions, etc.",968,971
+16,Sipas Veselit,PERSON,"People, including fictional",976,989
+16,PDK,ORG,"Companies, agencies, institutions, etc.",991,994
+16,është bërë,PERSON,"People, including fictional",1036,1046
+16,Kosovë,PERSON,"People, including fictional",1050,1056
+16,Kosova,PERSON,"People, including fictional",1078,1084
+16,dhe,ORG,"Companies, agencies, institutions, etc.",1106,1109
+16,dhe partia,ORG,"Companies, agencies, institutions, etc.",1117,1127
+16,unë,ORG,"Companies, agencies, institutions, etc.",1147,1150
+16,10,CARDINAL,Numerals that do not fall under another type,1156,1158
+16,vite kemi,GPE,"Countries, cities, states",1159,1168
+16,një transformim,ORG,"Companies, agencies, institutions, etc.",1188,1203
+16,momentin kur po flasim,PERSON,"People, including fictional",1233,1255
+16,Kosova,ORG,"Companies, agencies, institutions, etc.",1256,1262
+16,Ballkanit Perëndimor,ORG,"Companies, agencies, institutions, etc.",1281,1301
+16,kanë qytetarët,PERSON,"People, including fictional",1405,1419
+16,tanë,PERSON,"People, including fictional",1420,1424
+16,t’u,GPE,"Countries, cities, states",1486,1489
+16,Po,ORG,"Companies, agencies, institutions, etc.",1505,1507
+16,kanë ndodhur,PERSON,"People, including fictional",1606,1618
+16,Kosova,PERSON,"People, including fictional",1630,1636
+16,PDK,ORG,"Companies, agencies, institutions, etc.",1641,1644
+16,kanë lëvizur bashkërisht,PERSON,"People, including fictional",1645,1669
+16,kohë,GPE,"Countries, cities, states",1708,1712
+16,Unë,PERSON,"People, including fictional",1780,1783
+16,kohë,GPE,"Countries, cities, states",1841,1845
+16,Veseli,PRODUCT,"Objects, vehicles, foods, etc. (not services)",1871,1877
+17,Një,ORG,"Companies, agencies, institutions, etc.",0,3
+17,dalë,PERSON,"People, including fictional",23,27
+17,konkluzionin se femrat,PERSON,"People, including fictional",31,53
+17,Studimi,PERSON,"People, including fictional",101,108
+17,kryer nga shkencëtarët,PERSON,"People, including fictional",115,137
+17,Diabetin,PERSON,"People, including fictional",165,173
+17,Metabolizmin,NORP,Nationalities or religious or political groups,196,208
+17,Spitali Churchill,PERSON,"People, including fictional",213,230
+17,kanë zbuluar,PERSON,"People, including fictional",231,243
+17,sëmundje kronike,PERSON,"People, including fictional",298,314
+17,kanë gjasa,PERSON,"People, including fictional",360,370
+17,kenë,PRODUCT,"Objects, vehicles, foods, etc. (not services)",374,378
+17,kofshët gjithashtu,PERSON,"People, including fictional",532,550
+17,rregullon peshën dhe,ORG,"Companies, agencies, institutions, etc.",698,718
+17,vaskular dhe veçoritë,ORG,"Companies, agencies, institutions, etc.",751,772
+17,disa kile,PERSON,"People, including fictional",885,894
+17,Omega 3,PERSON,"People, including fictional",934,941
+18,Getoar Selimi është një,PERSON,"People, including fictional",0,23
+18,Reperi,ORG,"Companies, agencies, institutions, etc.",76,82
+18,Ghetto Geasy,WORK_OF_ART,"Titles of books, songs, etc.",149,161
+18,Derisa po shijon suksesin,PERSON,"People, including fictional",164,189
+18,këngës,ORG,"Companies, agencies, institutions, etc.",206,212
+18,reperi,GPE,"Countries, cities, states",242,248
+18,kohë,GPE,"Countries, cities, states",254,258
+18,prej tyre,PERSON,"People, including fictional",311,320
+18,Geti,PERSON,"People, including fictional",322,326
+18,duke buzëqeshur,PERSON,"People, including fictional",335,350
+18,thojn qe,PERSON,"People, including fictional",433,441
+18,ka qenë mbishkrimi që,PERSON,"People, including fictional",454,475
+19,Presidenti i Republikës,ORG,"Companies, agencies, institutions, etc.",0,23
+19,Hashim Thaçi,ORG,"Companies, agencies, institutions, etc.",25,37
+19,sot,PERSON,"People, including fictional",51,54
+19,Kosovës,GPE,"Countries, cities, states",66,73
+19,ku ka,PERSON,"People, including fictional",75,80
+19,pikën kufitare,PERSON,"People, including fictional",90,104
+19,Serbinë,GPE,"Countries, cities, states",108,115
+19,Bërnjak,GPE,"Countries, cities, states",117,124
+19,Ujmanit,GPE,"Countries, cities, states",140,147
+19,kalova duke,PERSON,"People, including fictional",170,181
+19,rreth liqenit,PERSON,"People, including fictional",217,230
+19,Ujmanit,ORG,"Companies, agencies, institutions, etc.",234,241
+19,Republikës së Kosovës,PERSON,"People, including fictional",273,294
+19,dhe,ORG,"Companies, agencies, institutions, etc.",318,321
+19,doganierët tanë,PERSON,"People, including fictional",322,337
+19,kufitar,PERSON,"People, including fictional",391,398
+19,Bërnjak,PERSON,"People, including fictional",402,409
+19,Kosova,PERSON,"People, including fictional",411,417
+19,dhe,ORG,"Companies, agencies, institutions, etc.",444,447
+19,HTH,ORG,"Companies, agencies, institutions, etc.",465,468
+19,Thaçi në Facebook,WORK_OF_ART,"Titles of books, songs, etc.",482,499
+20,200,CARDINAL,Numerals that do not fall under another type,21,24
+20,kanë,PERSON,"People, including fictional",33,37
+20,Mitrovicë,PERSON,"People, including fictional",58,67
+20,Bernjak,PERSON,"People, including fictional",70,77
+20,kanë bllokuar,PERSON,"People, including fictional",122,135
+20,Mitrovicë-Ribariq,ORG,"Companies, agencies, institutions, etc.",159,176
+20,Zubin Potokut,ORG,"Companies, agencies, institutions, etc.",190,203
+20,Bllokimi,GPE,"Countries, cities, states",205,213
+20,është bërë te pompa,PERSON,"People, including fictional",223,242
+20,Zubin Potok,ORG,"Companies, agencies, institutions, etc.",261,272
+20,ku janë vendosur kamionë,PERSON,"People, including fictional",274,298
+20,dhe,ORG,"Companies, agencies, institutions, etc.",312,315
+20,qarkullimin,PERSON,"People, including fictional",351,362
+20,serbëve zhvillohet,PERSON,"People, including fictional",389,407
+20,ditën,NORP,Nationalities or religious or political groups,411,416
+20,Presidenti,ORG,"Companies, agencies, institutions, etc.",421,431
+20,Republikës së Kosovës,PERSON,"People, including fictional",434,455
+20,Ujmanit,ORG,"Companies, agencies, institutions, etc.",488,495
+20,Bernjak,PERSON,"People, including fictional",515,522
+20,Po,ORG,"Companies, agencies, institutions, etc.",524,526
+20,kanë,PERSON,"People, including fictional",546,550
+20,rruga është bllokuar edhe,ORG,"Companies, agencies, institutions, etc.",564,589
+20,Njësisë Speciale,GPE,"Countries, cities, states",618,634
+21,Astrit Haraqija,PERSON,"People, including fictional",0,15
+21,Isa Mustafës,ORG,"Companies, agencies, institutions, etc.",55,67
+21,LDK,ORG,"Companies, agencies, institutions, etc.",114,117
+21,Vjosa Osmani,PERSON,"People, including fictional",122,134
+21,Haxhi Avdyli,PERSON,"People, including fictional",139,151
+21,Osmanin,PERSON,"People, including fictional",225,232
+21,Avdylin,PERSON,"People, including fictional",237,244
+21,Ibrahim Rugovës,ORG,"Companies, agencies, institutions, etc.",304,319
+21,Postimi i plotë,PERSON,"People, including fictional",321,336
+21,Nuk,PERSON,"People, including fictional",410,413
+21,secilën,NORP,Nationalities or religious or political groups,423,430
+21,kur,NORP,Nationalities or religious or political groups,436,439
+21,lyp kryqëzimin e,PERSON,"People, including fictional",486,502
+21,Vjosa Osmani,PERSON,"People, including fictional",507,519
+21,Haxhia,ORG,"Companies, agencies, institutions, etc.",525,531
+21,Prizrenit,ORG,"Companies, agencies, institutions, etc.",534,543
+21,Isës,PERSON,"People, including fictional",566,570
+21,Kosovës,GPE,"Countries, cities, states",609,616
+21,kur është,PERSON,"People, including fictional",715,724
+21,lyp linçim,PERSON,"People, including fictional",756,766
+21,Isistat,NORP,Nationalities or religious or political groups,824,831
+21,Vjosa Osmani,PERSON,"People, including fictional",849,861
+21,Haxhija,GPE,"Countries, cities, states",864,871
+21,permeni kush,PERSON,"People, including fictional",892,904
+21,Kosovën,PERSON,"People, including fictional",949,956
+21,Albin TURPIN,PERSON,"People, including fictional",962,974
+22,Chelsea,ORG,"Companies, agencies, institutions, etc.",0,7
+22,Liverpool,GPE,"Countries, cities, states",12,21
+22,kanë luajtur,PERSON,"People, including fictional",22,34
+22,1:1,CARDINAL,Numerals that do not fall under another type,41,44
+22,Premierligë,ORG,"Companies, agencies, institutions, etc.",76,87
+22,skuadrat,NORP,Nationalities or religious or political groups,152,160
+22,Liverpool,GPE,"Countries, cities, states",213,222
+22,Chelsea,ORG,"Companies, agencies, institutions, etc.",285,292
+22,kaloi,PERSON,"People, including fictional",303,308
+22,Eden Hazard,PERSON,"People, including fictional",326,337
+22,1:0,CARDINAL,Numerals that do not fall under another type,362,365
+22,bukur,GPE,"Countries, cities, states",381,386
+22,Kovacic,PERSON,"People, including fictional",402,409
+22,Liverpool,ORG,"Companies, agencies, institutions, etc.",428,437
+22,dorëzua deri në fund,PERSON,"People, including fictional",444,464
+22,Daniel Sturridge,PERSON,"People, including fictional",537,553
+22,1:1,CARDINAL,Numerals that do not fall under another type,625,628
+23,ndërsa menjëherë ka,PERSON,"People, including fictional",80,99
+23,nisur,GPE,"Countries, cities, states",100,105
+23,punën,GPE,"Countries, cities, states",106,111
+23,ri,GPE,"Countries, cities, states",131,133
+23,Reperi,ORG,"Companies, agencies, institutions, etc.",154,160
+23,tij i ri lansohet,GPE,"Countries, cities, states",186,203
+23,ndërsa titulli,PERSON,"People, including fictional",233,247
+23,këngës,ORG,"Companies, agencies, institutions, etc.",320,326
+23,cila premton,FAC,"Buildings, airports, highways, bridges, etc.",330,342
+23,Kujtojmë,PERSON,"People, including fictional",356,364
+23,Dafina Zeqirin,PERSON,"People, including fictional",428,442
+23,Instagram,NORP,Nationalities or religious or political groups,494,503
+23,LumiB,ORG,"Companies, agencies, institutions, etc.",557,562
+23,"Sep 29, 2018",DATE,Absolute or relative dates or periods,566,578
+23,10:34am PDT,ORG,"Companies, agencies, institutions, etc.",582,593
+24,Juventusi,ORG,"Companies, agencies, institutions, etc.",0,9
+24,Serie A,ORG,"Companies, agencies, institutions, etc.",54,61
+24,Napolin,PRODUCT,"Objects, vehicles, foods, etc. (not services)",79,86
+24,10,CARDINAL,Numerals that do not fall under another type,114,116
+24,Mario Mandzukic,PERSON,"People, including fictional",161,176
+24,Cristiano Ronaldo,PERSON,"People, including fictional",181,198
+24,Torino,PRODUCT,"Objects, vehicles, foods, etc. (not services)",212,218
+24,italian,NORP,Nationalities or religious or political groups,282,289
+24,Juventusi,PERSON,"People, including fictional",308,317
+24,pasi duke,PERSON,"People, including fictional",335,344
+24,Napolin 3-1,PRODUCT,"Objects, vehicles, foods, etc. (not services)",356,367
+24,çuar,ORG,"Companies, agencies, institutions, etc.",392,396
+24,Mysafirët,PERSON,"People, including fictional",447,456
+24,Napoli,ORG,"Companies, agencies, institutions, etc.",461,467
+24,Mertens,PRODUCT,"Objects, vehicles, foods, etc. (not services)",514,521
+24,Juventusi,ORG,"Companies, agencies, institutions, etc.",554,563
+24,Mandzukic,ORG,"Companies, agencies, institutions, etc.",633,642
+24,Bonucci,FAC,"Buildings, airports, highways, bridges, etc.",655,662
+24,Notat,PERSON,"People, including fictional",664,669
+24,Juventus,ORG,"Companies, agencies, institutions, etc.",707,715
+24,3:1 Napoli,PRODUCT,"Objects, vehicles, foods, etc. (not services)",716,726
+25,AUTORI,ORG,"Companies, agencies, institutions, etc.",0,6
+25,Kosovë,PERSON,"People, including fictional",38,44
+25,Kosovës,PERSON,"People, including fictional",154,161
+25,Albin Kurtit,PERSON,"People, including fictional",195,207
+25,Hashim Thaçit,ORG,"Companies, agencies, institutions, etc.",308,321
+25,Aleksandër Vuçiçin,PERSON,"People, including fictional",325,343
+25,paprekshmërisë s ështetit,ORG,"Companies, agencies, institutions, etc.",449,474
+25,Kosoës,PERSON,"People, including fictional",484,490
+25,Kosovë,PERSON,"People, including fictional",585,591
+25,Shqipërisë,NORP,Nationalities or religious or political groups,716,726
+25,Shqipërisë,ORG,"Companies, agencies, institutions, etc.",753,763
+25,duke zhdukur nga,PERSON,"People, including fictional",765,781
+25,qarkullimi simbolet e shtetit,ORG,"Companies, agencies, institutions, etc.",782,811
+25,Kosovës,PERSON,"People, including fictional",821,828
+25,është më e rëndësishme,ORG,"Companies, agencies, institutions, etc.",837,859
+25,Protesta,NORP,Nationalities or religious or political groups,911,919
+25,Shqipërinë,PERSON,"People, including fictional",999,1009
+25,dhe,ORG,"Companies, agencies, institutions, etc.",1011,1014
+25,jo dhe,PERSON,"People, including fictional",1036,1042
+25,Hashim Thaçit,ORG,"Companies, agencies, institutions, etc.",1084,1097
+25,Vuçiçin,PERSON,"People, including fictional",1101,1108
+25,Sali Berishën,PERSON,"People, including fictional",1133,1146
+25,Albin Kurti,PERSON,"People, including fictional",1157,1168
+25,Hashim Thaçit,ORG,"Companies, agencies, institutions, etc.",1227,1240
+25,po,GPE,"Countries, cities, states",1312,1314
+25,Shqipërisë,NORP,Nationalities or religious or political groups,1512,1522
+25,Kosovën,PERSON,"People, including fictional",1526,1533
+25,Prishtinë,ORG,"Companies, agencies, institutions, etc.",1571,1580
+25,nuk ishte,PERSON,"People, including fictional",1582,1591
+25,Hashimi,GPE,"Countries, cities, states",1624,1631
+25,Albinit,ORG,"Companies, agencies, institutions, etc.",1668,1675
+25,dhe,ORG,"Companies, agencies, institutions, etc.",1696,1699
+25,Shqipërinë,PERSON,"People, including fictional",1713,1723
+25,Hashim Thaçit,ORG,"Companies, agencies, institutions, etc.",1731,1744
+25,jetë,PERSON,"People, including fictional",1754,1758
+25,dhe kështu,PRODUCT,"Objects, vehicles, foods, etc. (not services)",1759,1769
+25,Dhe unë besoj,PERSON,"People, including fictional",1771,1784
+25,Kurti,ORG,"Companies, agencies, institutions, etc.",1788,1793
+25,zoti,ORG,"Companies, agencies, institutions, etc.",1805,1809
+25,Bashkimit,PERSON,"People, including fictional",1827,1836
+25,dhe,ORG,"Companies, agencies, institutions, etc.",1845,1848
+25,mos prekjen,ORG,"Companies, agencies, institutions, etc.",1916,1927
+25,dhe,ORG,"Companies, agencies, institutions, etc.",1961,1964
+25,Shqipërinë,PERSON,"People, including fictional",1978,1988
+25,Kurti,PERSON,"People, including fictional",1990,1995
+25,ditë protesta,PERSON,"People, including fictional",2020,2033
+25,Bashkimin,PRODUCT,"Objects, vehicles, foods, etc. (not services)",2038,2047
+25,Kosovën në Prishtinë,PERSON,"People, including fictional",2064,2084
+25,jo ti nis si protesta,PERSON,"People, including fictional",2090,2111
+25,mos prekje kujsh,PERSON,"People, including fictional",2116,2132
+25,ishte një,ORG,"Companies, agencies, institutions, etc.",2185,2194
+25,Kurtit,ORG,"Companies, agencies, institutions, etc.",2204,2210
+25,Thaçit,ORG,"Companies, agencies, institutions, etc.",2215,2221
+25,kujtë dhe,ORG,"Companies, agencies, institutions, etc.",2244,2253
+25,nuk ishte ashtu,PERSON,"People, including fictional",2254,2269
+25,mbrojtur,GPE,"Countries, cities, states",2304,2312
+25,Kosovës,GPE,"Countries, cities, states",2321,2328
+25,Është,GPE,"Countries, cities, states",2330,2335
+25,thuhet,GPE,"Countries, cities, states",2340,2346
+25,Hiqjani Hashimit,PERSON,"People, including fictional",2379,2395
+25,Albinit,ORG,"Companies, agencies, institutions, etc.",2405,2412
+25,Dhe,PERSON,"People, including fictional",2414,2417
+25,kushtet kur,PERSON,"People, including fictional",2421,2432
+25,Evropën,ORG,"Companies, agencies, institutions, etc.",2459,2466
+25,SHBA,ORG,"Companies, agencies, institutions, etc.",2471,2475
+25,Kosovës,GPE,"Countries, cities, states",2490,2497
+25,Hashim Thaçit,ORG,"Companies, agencies, institutions, etc.",2564,2577
+25,Albinin,PERSON,"People, including fictional",2614,2621
+25,Dhe,PERSON,"People, including fictional",2623,2626
+25,kushtet kur,PERSON,"People, including fictional",2630,2641
+25,Evropën,ORG,"Companies, agencies, institutions, etc.",2668,2675
+25,SHBA,ORG,"Companies, agencies, institutions, etc.",2680,2684
+25,Kosovës,GPE,"Countries, cities, states",2699,2706
+25,Hashim Thaçit,ORG,"Companies, agencies, institutions, etc.",2773,2786
+25,Albin Kurti,PERSON,"People, including fictional",2823,2834
+25,Evropë,FAC,"Buildings, airports, highways, bridges, etc.",2882,2888
+25,SHBA,ORG,"Companies, agencies, institutions, etc.",2891,2895
+25,nuk duan ta dëgjojnë,PERSON,"People, including fictional",2902,2922
+26,Mattel,ORG,"Companies, agencies, institutions, etc.",59,65
+26,dhe hedhjes,PERSON,"People, including fictional",103,114
+26,treg,PERSON,"People, including fictional",118,122
+26,Kështu,ORG,"Companies, agencies, institutions, etc.",288,294
+26,Aristotle,WORK_OF_ART,"Titles of books, songs, etc.",341,350
+26,Mattel,ORG,"Companies, agencies, institutions, etc.",368,374
+26,muajin janar,PERSON,"People, including fictional",455,467
+26,kritikat dhe,PERSON,"People, including fictional",473,485
+26,detyruan kompaninë,PERSON,"People, including fictional",508,526
+26,disa herë hedhjen e,PERSON,"People, including fictional",542,561
+26,treg deri,PERSON,"People, including fictional",569,578
+26,ata ta kenë,PERSON,"People, including fictional",777,788
+26,lehtë,GPE,"Countries, cities, states",795,800
+26,Mattle,NORP,Nationalities or religious or political groups,859,865
+26,këmbëngulën dhe,PERSON,"People, including fictional",908,923
+26,fushatën e tyre e cilësonin joetike përdorimin e inteligjencës artificiale,ORG,"Companies, agencies, institutions, etc.",927,1001
+26,kohë,GPE,"Countries, cities, states",1044,1048
+27,njerëz kanë,PERSON,"People, including fictional",7,18
+27,dhe kundër,PERSON,"People, including fictional",34,44
+27,Katalonisë,ORG,"Companies, agencies, institutions, etc.",59,69
+27,rriten një,PERSON,"People, including fictional",192,202
+27,Grupet,PERSON,"People, including fictional",294,300
+27,tenda,ORG,"Companies, agencies, institutions, etc.",333,338
+27,premte,GPE,"Countries, cities, states",354,360
+27,Katalonisë,GPE,"Countries, cities, states",412,422
+27,1000,CARDINAL,Numerals that do not fall under another type,432,436
+27,pasi policia kishte,PERSON,"People, including fictional",459,478
+27,qendrat votuese para një,ORG,"Companies, agencies, institutions, etc.",510,534
+27,Për disa orë,PERSON,"People, including fictional",541,553
+27,protestat kundër,PERSON,"People, including fictional",631,647
+27,Spanja me jetë,WORK_OF_ART,"Titles of books, songs, etc.",669,683
+27,Fundjava,ORG,"Companies, agencies, institutions, etc.",695,703
+27,kalohet,PERSON,"People, including fictional",714,721
+27,protesta,PERSON,"People, including fictional",725,733
+27,Katalionsë,GPE,"Countries, cities, states",792,802
+28,Një,ORG,"Companies, agencies, institutions, etc.",0,3
+28,450,CARDINAL,Numerals that do not fall under another type,48,51
+28,16,CARDINAL,Numerals that do not fall under another type,82,84
+28,Mekën dhe Medinën,PERSON,"People, including fictional",117,134
+28,tri orë,PERSON,"People, including fictional",187,194
+28,dhe,ORG,"Companies, agencies, institutions, etc.",196,199
+28,Medinë,PERSON,"People, including fictional",230,236
+28,Al Jazeera,ORG,"Companies, agencies, institutions, etc.",297,307
+28,Arabia Saudite,PERSON,"People, including fictional",310,324
+28,t’ua lehtësojë pelegrinëve muslimanë,PERSON,"People, including fictional",437,473
+28,këto,PERSON,"People, including fictional",488,492
+28,t’i transportojnë udhëtarët,PERSON,"People, including fictional",521,548
+28,shpejtësi,ORG,"Companies, agencies, institutions, etc.",580,589
+28,300,CARDINAL,Numerals that do not fall under another type,595,598
+28,35,CARDINAL,Numerals that do not fall under another type,712,714
+28,Rruga nga Haramaini,WORK_OF_ART,"Titles of books, songs, etc.",723,742
+28,lehtë,GPE,"Countries, cities, states",777,782
+28,kurrë më,PERSON,"People, including fictional",786,794
+28,tha ministri,PERSON,"People, including fictional",802,814
+28,Nabil al-Amoudi,PERSON,"People, including fictional",830,845
+28,para njerëzve,PERSON,"People, including fictional",847,860
+28,mbledhur në,ORG,"Companies, agencies, institutions, etc.",864,875
+28,Jeddah,GPE,"Countries, cities, states",886,892
+28,"Mekën, Jeddah",ORG,"Companies, agencies, institutions, etc.",1043,1056
+28,Qytetin Ekonomik,PERSON,"People, including fictional",1058,1074
+28,Mbretit Abdullah,PERSON,"People, including fictional",1078,1094
+28,Abdulaziz,GPE,"Countries, cities, states",1107,1116
+28,Medinën,PERSON,"People, including fictional",1121,1128
+29,Ujmanin,PERSON,"People, including fictional",68,75
+29,Ujmanit,GPE,"Countries, cities, states",172,179
+29,Sërgjan Vuloviq,PERSON,"People, including fictional",181,196
+29,Ujman,ORG,"Companies, agencies, institutions, etc.",265,270
+29,Bruksel,PERSON,"People, including fictional",344,351
+29,Vuloviq,PERSON,"People, including fictional",354,361
+29,Zubin Potokut,ORG,"Companies, agencies, institutions, etc.",388,401
+29,Mitrovicë,PERSON,"People, including fictional",452,461
+29,Bernjak,PERSON,"People, including fictional",464,471
+29,u janë,PERSON,"People, including fictional",473,479
+29,nuk do t’ua lejojmë,PERSON,"People, including fictional",604,623
+29,Ujmanin,PERSON,"People, including fictional",637,644
+29,Vuloviq,PERSON,"People, including fictional",656,663
+29,transmeton Koha.net,PERSON,"People, including fictional",679,698
+29,Vizitën,PERSON,"People, including fictional",700,707
+29,Thaçit në Ujman,ORG,"Companies, agencies, institutions, etc.",710,725
+29,Bruksel,PERSON,"People, including fictional",826,833
+29,Prishtinën,GPE,"Countries, cities, states",871,881
+29,Zubin Potoku,ORG,"Companies, agencies, institutions, etc.",884,896
+29,dhe,ORG,"Companies, agencies, institutions, etc.",924,927
+29,është provokim,PERSON,"People, including fictional",931,945
+29,nuk duhet dhe,PERSON,"People, including fictional",974,987
+29,sot jemi,PERSON,"People, including fictional",1032,1040
+29,nuk kemi,PERSON,"People, including fictional",1056,1064
+29,Vuloviq,PERSON,"People, including fictional",1107,1114
+29,ROSU-s kanë,ORG,"Companies, agencies, institutions, etc.",1201,1212
+29,Ujman,ORG,"Companies, agencies, institutions, etc.",1225,1230
+29,dhe,ORG,"Companies, agencies, institutions, etc.",1232,1235
+29,kanë,PERSON,"People, including fictional",1257,1261
+29,nuk shkaktuan,GPE,"Countries, cities, states",1279,1292
+29,punëtorët,ORG,"Companies, agencies, institutions, etc.",1333,1342
+29,Thaçi,PRODUCT,"Objects, vehicles, foods, etc. (not services)",1386,1391
+29,100,CARDINAL,Numerals that do not fall under another type,1416,1419
+29,rreth orës,PERSON,"People, including fictional",1475,1485
+29,7,CARDINAL,Numerals that do not fall under another type,1486,1487
+29,kanë kaluar,PERSON,"People, including fictional",1531,1542
+29,kah Ujmani,PERSON,"People, including fictional",1568,1578
+29,10,CARDINAL,Numerals that do not fall under another type,1598,1600
+29,prej,ORG,"Companies, agencies, institutions, etc.",1622,1626
+29,7,CARDINAL,Numerals that do not fall under another type,1633,1634
+29,kësaj kanë,PERSON,"People, including fictional",1711,1721
+29,mesin,PERSON,"People, including fictional",1756,1761
+29,Ujmanit,ORG,"Companies, agencies, institutions, etc.",1893,1900
+29,2,CARDINAL,Numerals that do not fall under another type,1901,1902
+29,Nuk,PERSON,"People, including fictional",1937,1940
+29,gjasë janë këtu,PERSON,"People, including fictional",1973,1988
+29,Vuloviq,PERSON,"People, including fictional",2017,2024
+30,Protesta,NORP,Nationalities or religious or political groups,0,8
+30,Republikës,ORG,"Companies, agencies, institutions, etc.",67,77
+30,isha,GPE,"Countries, cities, states",167,171
+30,Republikë,PERSON,"People, including fictional",197,206
+30,ta mbrojë,PERSON,"People, including fictional",272,281
+30,keq,ORG,"Companies, agencies, institutions, etc.",348,351
+30,tim,PERSON,"People, including fictional",370,373
+30,dhe,ORG,"Companies, agencies, institutions, etc.",420,423
+30,Thaçit,ORG,"Companies, agencies, institutions, etc.",436,442
+30,kundër dialogut,PERSON,"People, including fictional",454,469
+30,Vjenë,PERSON,"People, including fictional",473,478
+30,kundër planit,PERSON,"People, including fictional",480,493
+30,Ahtisaari,GPE,"Countries, cities, states",494,503
+30,Malin,GPE,"Countries, cities, states",529,534
+30,kundër dialogut,PERSON,"People, including fictional",553,568
+30,Serbinë,ORG,"Companies, agencies, institutions, etc.",616,623
+30,kanë,PERSON,"People, including fictional",645,649
+30,Hashim Thaçit,ORG,"Companies, agencies, institutions, etc.",684,697
+30,procesi,NORP,Nationalities or religious or political groups,721,728
+30,Ai,PERSON,"People, including fictional",756,758
+30,dalë fitues,PERSON,"People, including fictional",762,773
+30,protesta,NORP,Nationalities or religious or political groups,903,911
+30,Hashim Thaçit,ORG,"Companies, agencies, institutions, etc.",973,986
+30,Prej,ORG,"Companies, agencies, institutions, etc.",1030,1034
+30,tim,PERSON,"People, including fictional",1042,1045
+30,është përzgjedhur kauzë,ORG,"Companies, agencies, institutions, etc.",1099,1122
+30,dhe,ORG,"Companies, agencies, institutions, etc.",1155,1158
+30,është fuqizimi,ORG,"Companies, agencies, institutions, etc.",1166,1180
+30,Hashim Thaçit,ORG,"Companies, agencies, institutions, etc.",1196,1209
+30,dhe shoqërinë,ORG,"Companies, agencies, institutions, etc.",1267,1280
+30,Atë,PERSON,"People, including fictional",1322,1325
+30,nuk kanë,PERSON,"People, including fictional",1337,1345
+30,nuk është,PERSON,"People, including fictional",1482,1491
+30,nuk kemi,PERSON,"People, including fictional",1551,1559
+30,nuk kemi,PERSON,"People, including fictional",1591,1599
+30,Ne,ORG,"Companies, agencies, institutions, etc.",1683,1685
+30,vizionin dhe,PERSON,"People, including fictional",1711,1723
+30,kauzë nuk,PERSON,"People, including fictional",1783,1792
+30,bashkim opozitar,PERSON,"People, including fictional",1826,1842
+30,kundrejt keqqeverisjes,PERSON,"People, including fictional",1843,1865
+30,apo kapjes,PERSON,"People, including fictional",1880,1890
+30,Hashim Thaçi,ORG,"Companies, agencies, institutions, etc.",1937,1949
+30,Serbinë,ORG,"Companies, agencies, institutions, etc.",1999,2006
+30,Kosovës,GPE,"Countries, cities, states",2037,2044
+30,pamundur,GPE,"Countries, cities, states",2064,2072
+30,mundet,GPE,"Countries, cities, states",2076,2082
+30,Prandaj,GPE,"Countries, cities, states",2157,2164
+30,dhe,ORG,"Companies, agencies, institutions, etc.",2186,2189
+30,SHC,ORG,"Companies, agencies, institutions, etc.",2434,2437
+30,tyre,GPE,"Countries, cities, states",2474,2478
+30,Thaçit,ORG,"Companies, agencies, institutions, etc.",2539,2545
+30,Për më keq,PERSON,"People, including fictional",2606,2616
+30,Thaçi,GPE,"Countries, cities, states",2731,2736
+31,Valteri Bottas,PERSON,"People, including fictional",0,14
+31,Lewis Hamilton,PERSON,"People, including fictional",23,37
+31,Rusisë,ORG,"Companies, agencies, institutions, etc.",91,97
+31,Mercedes,ORG,"Companies, agencies, institutions, etc.",124,132
+31,Valteri Bottas,PERSON,"People, including fictional",155,169
+31,1,CARDINAL,Numerals that do not fall under another type,223,224
+31,38,DATE,Absolute or relative dates or periods,232,234
+31,387,CARDINAL,Numerals that do not fall under another type,245,248
+31,Lewis Hamilton se shoku,PERSON,"People, including fictional",279,302
+31,Ferrarit,ORG,"Companies, agencies, institutions, etc.",435,443
+31,Vettel,ORG,"Companies, agencies, institutions, etc.",445,451
+31,Raikkonen,PERSON,"People, including fictional",456,465
+31,Bottas,ORG,"Companies, agencies, institutions, etc.",526,532
+31,Red Bullit Verstappen dhe Ricciardo,ORG,"Companies, agencies, institutions, etc.",567,602
+31,nuk,PERSON,"People, including fictional",606,609
+31,kualifikuan,NORP,Nationalities or religious or political groups,612,623
+31,nisen,PERSON,"People, including fictional",654,659
+31,11,CARDINAL,Numerals that do not fall under another type,694,696
+31,12,CARDINAL,Numerals that do not fall under another type,701,703
+32,shtatori kanë rënë ndjeshëm,PERSON,"People, including fictional",32,59
+32,zjarrvëniet e,PERSON,"People, including fictional",61,74
+32,janë kthyer,PERSON,"People, including fictional",86,97
+32,një problem,ORG,"Companies, agencies, institutions, etc.",101,112
+32,zjarri ka rënë mbrëmjen,PERSON,"People, including fictional",124,147
+32,Shkodër-Lezhë,ORG,"Companies, agencies, institutions, etc.",177,190
+32,Raporton,GPE,"Countries, cities, states",255,263
+33,Presidenti,ORG,"Companies, agencies, institutions, etc.",0,10
+33,Turqisë,ORG,"Companies, agencies, institutions, etc.",13,20
+33,Recep Tayyip Erdogan,PERSON,"People, including fictional",22,42
+33,Mesut Ozilit,PERSON,"People, including fictional",63,75
+33,rrënjë turke,PERSON,"People, including fictional",100,112
+33,kritika,ORG,"Companies, agencies, institutions, etc.",140,147
+33,shkak të daljes në,PERSON,"People, including fictional",152,170
+33,Ozil,GPE,"Countries, cities, states",195,199
+33,29,CARDINAL,Numerals that do not fall under another type,201,203
+33,muajin korrik,PERSON,"People, including fictional",252,265
+33,shkak të,PERSON,"People, including fictional",271,279
+33,Merkel,PERSON,"People, including fictional",460,466
+33,Erdogan,PERSON,"People, including fictional",475,482
+33,Gjermaninë,GPE,"Countries, cities, states",502,512
+33,Erdogan,PERSON,"People, including fictional",612,619
+33,këto komente,PERSON,"People, including fictional",679,691
+33,kanë,PERSON,"People, including fictional",720,724
+33,t’i mbajë,PERSON,"People, including fictional",763,772
+33,Gjermani,PERSON,"People, including fictional",796,804
+33,Berlini po,PERSON,"People, including fictional",869,879
+33,politikë,PERSON,"People, including fictional",941,949
+33,Turqi,PERSON,"People, including fictional",985,990
+33,2016,DATE,Absolute or relative dates or periods,1001,1005
+34,Maqedonia po,PERSON,"People, including fictional",0,12
+34,27,CARDINAL,Numerals that do not fall under another type,78,80
+34,Greqinë,ORG,"Companies, agencies, institutions, etc.",92,99
+34,Bashkimit Evropian,NORP,Nationalities or religious or political groups,139,157
+35,"Presidenti i Serbisë, Aleksandar Vuçiq",ORG,"Companies, agencies, institutions, etc.",0,38
+35,Kosovës,PERSON,"People, including fictional",75,82
+35,ROSU,ORG,"Companies, agencies, institutions, etc.",84,88
+35,Kosovës,GPE,"Countries, cities, states",116,123
+35,ROSU,ORG,"Companies, agencies, institutions, etc.",193,197
+35,veri,PERSON,"People, including fictional",201,205
+35,kërcënua dhe,PERSON,"People, including fictional",219,231
+35,110 deri,QUANTITY,"Measurements, as of weight or distance",268,276
+35,130,CARDINAL,Numerals that do not fall under another type,280,283
+35,Kosovës,PERSON,"People, including fictional",318,325
+35,kanë zënë,PERSON,"People, including fictional",351,360
+35,gjitha,GPE,"Countries, cities, states",381,387
+35,Ujmanit,GPE,"Countries, cities, states",403,410
+35,disa persona,PERSON,"People, including fictional",440,452
+35,duke mbajtur peng katër,PERSON,"People, including fictional",457,480
+35,tha Vuçiq,ORG,"Companies, agencies, institutions, etc.",483,492
+35,veri,PERSON,"People, including fictional",542,546
+35,Bërnjak,PERSON,"People, including fictional",637,644
+35,Liqenin e Ujmanit,PERSON,"People, including fictional",649,666
+35,tha se vizita,PERSON,"People, including fictional",674,687
+35,Serbi,NORP,Nationalities or religious or political groups,756,761
+35,Liqenin dhe hidrocentralin,PERSON,"People, including fictional",811,837
+35,Ujmanit,GPE,"Countries, cities, states",840,847
+35,disa serbë,PERSON,"People, including fictional",868,878
+35,Këto,PERSON,"People, including fictional",880,884
+35,zëvendësdrejtori,CARDINAL,Numerals that do not fall under another type,929,945
+35,Mitrovicës Veriore,PERSON,"People, including fictional",971,989
+35,Besim Hoti,ORG,"Companies, agencies, institutions, etc.",991,1001
+35,kombit serb,PERSON,"People, including fictional",1033,1044
+35,tha se,PERSON,"People, including fictional",1046,1052
+35,dhunën,PERSON,"People, including fictional",1057,1063
+35,janë shkelur,PERSON,"People, including fictional",1073,1085
+35,dhe se përfaqësuesit e,PERSON,"People, including fictional",1103,1125
+35,nuk,PERSON,"People, including fictional",1162,1165
+35,dhe,ORG,"Companies, agencies, institutions, etc.",1182,1185
+35,Vuçiq,ORG,"Companies, agencies, institutions, etc.",1207,1212
+35,kanë mbështetjen,PERSON,"People, including fictional",1220,1236
+35,perëndimorë,GPE,"Countries, cities, states",1256,1267
+35,Kosovës,GPE,"Countries, cities, states",1304,1311
+35,kemi arritur,PERSON,"People, including fictional",1336,1348
+35,NATO,ORG,"Companies, agencies, institutions, etc.",1417,1421
+35,komunitetit lokal serb,PERSON,"People, including fictional",1451,1473
+35,tha Vuçiq,ORG,"Companies, agencies, institutions, etc.",1476,1485
+35,kanë pasur,PERSON,"People, including fictional",1502,1512
+35,NATO-s,ORG,"Companies, agencies, institutions, etc.",1524,1530
+35,është shkelur,PERSON,"People, including fictional",1550,1563
+35,tha presidenti,PERSON,"People, including fictional",1577,1591
+35,urdhëruar,ORG,"Companies, agencies, institutions, etc.",1611,1620
+36,Janë,PERSON,"People, including fictional",0,4
+36,3,CARDINAL,Numerals that do not fall under another type,9,10
+36,alkoolin,PERSON,"People, including fictional",61,69
+36,janë burra,PERSON,"People, including fictional",91,101
+36,janë konsumuesit,PERSON,"People, including fictional",141,157
+36,5%,PERCENT,"Percentage, including ""%""",226,228
+36,konsumimin e,PERSON,"People, including fictional",266,278
+36,Janë këto,PERSON,"People, including fictional",299,308
+36,Organizatës Botërore e Shëndetësisë,ORG,"Companies, agencies, institutions, etc.",331,366
+36,cila raporton,ORG,"Companies, agencies, institutions, etc.",370,383
+36,kësaj substance,PERSON,"People, including fictional",414,429
+36,alkoolin dhe,PERSON,"People, including fictional",462,474
+36,janë përgjegjës,PERSON,"People, including fictional",495,510
+36,3,CARDINAL,Numerals that do not fall under another type,515,516
+36,2.3,CARDINAL,Numerals that do not fall under another type,554,557
+36,janë burra dhe,PERSON,"People, including fictional",566,580
+36,29%,PERCENT,"Percentage, including ""%""",587,590
+36,janë,PERSON,"People, including fictional",602,606
+36,Janë,PERSON,"People, including fictional",672,676
+36,"7,2%",PERCENT,"Percentage, including ""%""",743,747
+36,"13,5%",PERCENT,"Percentage, including ""%""",792,797
+36,20,CARDINAL,Numerals that do not fall under another type,813,815
+36,nga konsumi,PERSON,"People, including fictional",832,843
+36,një e katërta,ORG,"Companies, agencies, institutions, etc.",887,900
+36,15,CARDINAL,Numerals that do not fall under another type,931,933
+36,19,CARDINAL,Numerals that do not fall under another type,938,940
+36,konsumojnë,PERSON,"People, including fictional",946,956
+36,ndikimi,ORG,"Companies, agencies, institutions, etc.",974,981
+36,nuk është,PERSON,"People, including fictional",1036,1045
+36,dhe alkooli fillojnë,ORG,"Companies, agencies, institutions, etc.",1120,1140
+36,dëmi është,ORG,"Companies, agencies, institutions, etc.",1201,1211
+36,237,CARDINAL,Numerals that do not fall under another type,1249,1252
+36,46,CARDINAL,Numerals that do not fall under another type,1271,1273
+36,alkoolin,PERSON,"People, including fictional",1328,1336
+36,Shumica,PERSON,"People, including fictional",1338,1345
+36,është në,ORG,"Companies, agencies, institutions, etc.",1353,1361
+36,Evropë dhe Amerikë,FAC,"Buildings, airports, highways, bridges, etc.",1362,1380
+36,5.9%,PERCENT,"Percentage, including ""%""",1434,1438
+36,2012,DATE,Absolute or relative dates or periods,1448,1452
+36,5.3%,PERCENT,"Percentage, including ""%""",1456,1460
+36,2016,DATE,Absolute or relative dates or periods,1470,1474
+36,tregon,NORP,Nationalities or religious or political groups,1507,1513
+36,zbatohen sot,PERSON,"People, including fictional",1523,1535
+36,janë,PERSON,"People, including fictional",1560,1564
+36,Mes,PERSON,"People, including fictional",1583,1586
+36,është në rënie në,ORG,"Companies, agencies, institutions, etc.",1648,1665
+36,Vjetër,ORG,"Companies, agencies, institutions, etc.",1696,1702
+36,sasia,GPE,"Countries, cities, states",1746,1751
+36,10%,PERCENT,"Percentage, including ""%""",1794,1797
+36,viti 2010,DATE,Absolute or relative dates or periods,1805,1814
+36,Pritet,ORG,"Companies, agencies, institutions, etc.",1816,1822
+36,10,CARDINAL,Numerals that do not fall under another type,1851,1853
+36,Azinë Juglindore,PERSON,"People, including fictional",1889,1905
+36,Paqësorit Perëndimor,PERSON,"People, including fictional",1919,1939
+36,disa zona,PERSON,"People, including fictional",1947,1956
+36,Amerikës,GPE,"Countries, cities, states",1960,1968
+36,dhe,ORG,"Companies, agencies, institutions, etc.",1973,1976
+36,33,CARDINAL,Numerals that do not fall under another type,2017,2019
+36,45%,PERCENT,"Percentage, including ""%""",2052,2055
+36,dhe,ORG,"Companies, agencies, institutions, etc.",2127,2130
+36,34%,PERCENT,"Percentage, including ""%""",2161,2164
+36,12%,PERCENT,"Percentage, including ""%""",2183,2186
+36,Mendohet se mbi,PERSON,"People, including fictional",2188,2203
+36,një e katërta,ORG,"Companies, agencies, institutions, etc.",2204,2217
+36,këtyre,PERSON,"People, including fictional",2252,2258
+36,mbi konsumimin,PERSON,"People, including fictional",2336,2350
+36,marrëdhënia midis alkoolit dhe,ORG,"Companies, agencies, institutions, etc.",2363,2393
+36,është komplekse dhe,ORG,"Companies, agencies, institutions, etc.",2404,2423
+36,jo,PERSON,"People, including fictional",2429,2431
+36,disa sëmundjeve,PERSON,"People, including fictional",2476,2491
+36,siç janë tumoret,PERSON,"People, including fictional",2493,2509
+36,disa kushte,PERSON,"People, including fictional",2554,2565
+36,moderuara shkaktojnë,ORG,"Companies, agencies, institutions, etc.",2621,2641
+36,nuk ka,PERSON,"People, including fictional",2697,2703
+37,Zjarri vazhdon,PERSON,"People, including fictional",0,14
+37,kodrat,NORP,Nationalities or religious or political groups,49,55
+37,Vajkan në Fier,PRODUCT,"Objects, vehicles, foods, etc. (not services)",66,80
+37,Albpetroli,ORG,"Companies, agencies, institutions, etc.",162,172
+37,Ballshi,PERSON,"People, including fictional",177,184
+37,5,CARDINAL,Numerals that do not fall under another type,202,203
+37,dhe,ORG,"Companies, agencies, institutions, etc.",238,241
+37,lehtë,GPE,"Countries, cities, states",293,298
+37,disa shtëpi banimi dhe biznese,PERSON,"People, including fictional",349,379
+37,zjarrfikësve ka,PERSON,"People, including fictional",393,408
+37,duke shmangur,PERSON,"People, including fictional",441,454
+37,Zjarri vijon,PERSON,"People, including fictional",487,499
+37,tepërmi ndërhyrjen e zjarrfikësve,ORG,"Companies, agencies, institutions, etc.",543,576
+38,Këto,PERSON,"People, including fictional",0,4
+38,janë shumë me rëndësi,PERSON,"People, including fictional",11,32
+38,1,CARDINAL,Numerals that do not fall under another type,33,34
+38,Konsumoni,PERSON,"People, including fictional",36,45
+38,Nëse,ORG,"Companies, agencies, institutions, etc.",62,66
+38,hani mëngjes,PERSON,"People, including fictional",67,79
+38,janë që,PERSON,"People, including fictional",104,111
+38,ju konsumoni fruta,PERSON,"People, including fictional",112,130
+38,nxitim nga dera,PERSON,"People, including fictional",165,180
+38,apo manaferra,PERSON,"People, including fictional",182,195
+38,brenda kosit,PERSON,"People, including fictional",196,208
+38,nuk konsumoni,PERSON,"People, including fictional",229,242
+38,deri në drekë,LAW,Named documents made into laws.,267,280
+38,2,CARDINAL,Numerals that do not fall under another type,351,352
+38,Tashmë,ORG,"Companies, agencies, institutions, etc.",354,360
+38,keni,ORG,"Companies, agencies, institutions, etc.",369,373
+38,Një,ORG,"Companies, agencies, institutions, etc.",392,395
+38,janë përzier së bashku,PERSON,"People, including fictional",506,528
+38,Kështu,ORG,"Companies, agencies, institutions, etc.",530,536
+38,keni,ORG,"Companies, agencies, institutions, etc.",562,566
+38,3.,CARDINAL,Numerals that do not fall under another type,628,630
+38,Përdorni,PERSON,"People, including fictional",665,673
+38,një termos supe dhe kështu,ORG,"Companies, agencies, institutions, etc.",695,721
+38,kohë dhe,ORG,"Companies, agencies, institutions, etc.",793,801
+38,dhe ju,PERSON,"People, including fictional",838,844
+38,4.,CARDINAL,Numerals that do not fall under another type,894,896
+38,ngopur deri,PERSON,"People, including fictional",917,928
+38,Supa,PERSON,"People, including fictional",938,942
+38,deri në vaktin,PRODUCT,"Objects, vehicles, foods, etc. (not services)",1038,1052
+38,nuk,PERSON,"People, including fictional",1075,1078
+39,Stepan,PERSON,"People, including fictional",0,6
+39,është rritur,FAC,"Buildings, airports, highways, bridges, etc.",29,41
+39,Instagram,ORG,"Companies, agencies, institutions, etc.",96,105
+39,Kur çifti del,PERSON,"People, including fictional",107,120
+39,24,CARDINAL,Numerals that do not fall under another type,130,132
+39,Çifti,PERSON,"People, including fictional",218,223
+39,Stepanin kur ishte,PERSON,"People, including fictional",246,264
+39,tre muajsh,PERSON,"People, including fictional",265,275
+39,dhe sot ai ha,PERSON,"People, including fictional",277,290
+39,25 kg,QUANTITY,"Measurements, as of weight or distance",291,296
+39,Ariu,PERSON,"People, including fictional",418,422
+39,ku kishte rol kryesor,PERSON,"People, including fictional",459,480
+39,Tashmë,ORG,"Companies, agencies, institutions, etc.",482,488
+39,Instagram,ORG,"Companies, agencies, institutions, etc.",526,535
+39,2000,CARDINAL,Numerals that do not fall under another type,586,590
+40,Fillloreta Raçi,PERSON,"People, including fictional",0,15
+40,Fifi,PRODUCT,"Objects, vehicles, foods, etc. (not services)",41,45
+40,Luan,PERSON,"People, including fictional",141,145
+40,filloi sezoni,ORG,"Companies, agencies, institutions, etc.",183,196
+40,ri,GPE,"Countries, cities, states",199,201
+40,nxiti,GPE,"Countries, cities, states",272,277
+40,rreth asaj që,PERSON,"People, including fictional",291,304
+40,marrëdhëniet,NORP,Nationalities or religious or political groups,305,317
+40,Fifit,ORG,"Companies, agencies, institutions, etc.",322,327
+40,nuk janë,PERSON,"People, including fictional",339,347
+40,Fifi,PERSON,"People, including fictional",383,387
+40,saj ishte,ORG,"Companies, agencies, institutions, etc.",434,443
+40,2017-,CARDINAL,Numerals that do not fall under another type,468,473
+40,2018,DATE,Absolute or relative dates or periods,482,486
+40,nuk kishte,PERSON,"People, including fictional",491,501
+40,mvut nbela,PERSON,"People, including fictional",582,592
+40,bukur,GPE,"Countries, cities, states",623,628
+40,Luana Vjollca,PERSON,"People, including fictional",629,642
+40,Zotit,PERSON,"People, including fictional",668,673
+40,qe,PERSON,"People, including fictional",691,693
+40,Top Channel..,ORG,"Companies, agencies, institutions, etc.",726,739
+40,qe kam,PERSON,"People, including fictional",756,762
+40,Fifi,ORG,"Companies, agencies, institutions, etc.",803,807
+41,F-35,PRODUCT,"Objects, vehicles, foods, etc. (not services)",60,64
+41,ku një,PERSON,"People, including fictional",66,72
+41,tyre është,PERSON,"People, including fictional",78,88
+41,Karolinën,PERSON,"People, including fictional",100,109
+41,Jugut,GPE,"Countries, cities, states",112,117
+41,tha trupat,ORG,"Companies, agencies, institutions, etc.",119,129
+41,Ndërkohë,GPE,"Countries, cities, states",138,146
+41,parashutë,NORP,Nationalities or religious or political groups,173,182
+41,para se avioni,PERSON,"People, including fictional",183,197
+41,kanë nisur,GPE,"Countries, cities, states",254,264
+41,janë avionët,PERSON,"People, including fictional",335,347
+41,3,CARDINAL,Numerals that do not fall under another type,423,424
+41,100,CARDINAL,Numerals that do not fall under another type,588,591
+42,Interi,ORG,"Companies, agencies, institutions, etc.",0,6
+42,plota,GPE,"Countries, cities, states",27,32
+42,kundër Cagliarit,PERSON,"People, including fictional",51,67
+42,12,CARDINAL,Numerals that do not fall under another type,144,146
+42,Martinezit,PERSON,"People, including fictional",162,172
+42,Politano,PERSON,"People, including fictional",238,246
+42,2,CARDINAL,Numerals that do not fall under another type,269,270
+42,Interi,ORG,"Companies, agencies, institutions, etc.",274,280
+42,13,CARDINAL,Numerals that do not fall under another type,303,305
+42,16,CARDINAL,Numerals that do not fall under another type,335,337
+42,6,CARDINAL,Numerals that do not fall under another type,341,342
+43,SHBA,ORG,"Companies, agencies, institutions, etc.",63,67
+43,Donald Trump,PERSON,"People, including fictional",72,84
+43,Lie To Me,PERSON,"People, including fictional",153,162
+43,Walls,PERSON,"People, including fictional",194,199
+43,2,CARDINAL,Numerals that do not fall under another type,250,251
+44,Reperi,GPE,"Countries, cities, states",0,6
+44,Prishtina,GPE,"Countries, cities, states",11,20
+44,Milot Hoxha,ORG,"Companies, agencies, institutions, etc.",22,33
+44,njohur si Taste2,ORG,"Companies, agencies, institutions, etc.",36,52
+44,është kënga,PERSON,"People, including fictional",101,112
+44,kësaj kënge e ka,PERSON,"People, including fictional",135,151
+44,vet reperi,PERSON,"People, including fictional",160,170
+44,Plisi,NORP,Nationalities or religious or political groups,197,202
+44,Djemt e Abdullahit,ORG,"Companies, agencies, institutions, etc.",257,275
+45,Vizita,PERSON,"People, including fictional",0,6
+45,Bërnjakut,ORG,"Companies, agencies, institutions, etc.",36,45
+45,Ujmanit,ORG,"Companies, agencies, institutions, etc.",62,69
+46,muzikës në botë,ORG,"Companies, agencies, institutions, etc.",46,61
+46,BBC Radio 4,ORG,"Companies, agencies, institutions, etc.",67,78
+46,Superylli,PERSON,"People, including fictional",81,90
+46,Beyonce,GPE,"Countries, cities, states",111,118
+46,40,CARDINAL,Numerals that do not fall under another type,152,154
+46,Taylor Suift,PERSON,"People, including fictional",246,258
+46,Adele,PERSON,"People, including fictional",260,265
+46,Dua Lipa,PERSON,"People, including fictional",270,278
+46,janë,PERSON,"People, including fictional",288,292
+46,Ditës Muzikore,PERSON,"People, including fictional",356,370
+46,BBC,ORG,"Companies, agencies, institutions, etc.",374,377
+46,40,CARDINAL,Numerals that do not fall under another type,383,385
+46,nuk përfshin vetëm ato që,PERSON,"People, including fictional",391,416
+46,këngët,PERSON,"People, including fictional",479,485
+47,Nëse,ORG,"Companies, agencies, institutions, etc.",0,4
+47,sytë janë pasqyrë,PERSON,"People, including fictional",5,22
+47,janë pasqyrë,PERSON,"People, including fictional",42,54
+47,çfarë hamë apo pijmë,PERSON,"People, including fictional",159,179
+47,Cilat,PERSON,"People, including fictional",234,239
+47,Ariel Ostad,PERSON,"People, including fictional",345,356
+47,10,CARDINAL,Numerals that do not fall under another type,415,417
+47,prej,ORG,"Companies, agencies, institutions, etc.",418,422
+47,Limonatat,ORG,"Companies, agencies, institutions, etc.",429,438
+47,Mishi,GPE,"Countries, cities, states",457,462
+47,Qoftet,PERSON,"People, including fictional",488,494
+47,Alkooli Embelsirat,PERSON,"People, including fictional",529,547
+48,Madrid,GPE,"Countries, cities, states",5,11
+48,Atletico Madrid,PERSON,"People, including fictional",16,31
+48,kanë luajtur,PERSON,"People, including fictional",32,44
+48,0,CARDINAL,Numerals that do not fall under another type,53,54
+48,Madridit,PERSON,"People, including fictional",76,84
+48,La Ligas,GPE,"Countries, cities, states",118,126
+48,kishte,PERSON,"People, including fictional",149,155
+48,Real Madridit,ORG,"Companies, agencies, institutions, etc.",196,209
+48,Atletico Madridit,PERSON,"People, including fictional",214,231
+48,Santiago Bernabeu,PERSON,"People, including fictional",236,253
+48,Tifozët,PERSON,"People, including fictional",256,263
+48,Bernabeu,PERSON,"People, including fictional",267,275
+48,Antoine Griezmann,FAC,"Buildings, airports, highways, bridges, etc.",431,448
+48,Thibaut Courtois,ORG,"Companies, agencies, institutions, etc.",470,486
+48,Asensio e Bale,PERSON,"People, including fictional",588,602
+48,kalohej,GPE,"Countries, cities, states",628,635
+48,muri,GPE,"Countries, cities, states",637,641
+48,Oblak,PERSON,"People, including fictional",662,667
+48,skuadrat,NORP,Nationalities or religious or political groups,684,692
+48,0,CARDINAL,Numerals that do not fall under another type,714,715
+49,Shërbimi Doganor,PERSON,"People, including fictional",0,16
+49,njoftuar se zyrtarët e saj kanë,ORG,"Companies, agencies, institutions, etc.",33,64
+49,712,PRODUCT,"Objects, vehicles, foods, etc. (not services)",76,79
+49,kilogramë heroinë,PERSON,"People, including fictional",80,97
+49,Bullgari,ORG,"Companies, agencies, institutions, etc.",150,158
+49,Turqia,GPE,"Countries, cities, states",163,169
+49,Doganierët,PERSON,"People, including fictional",171,181
+49,përcaktuan në,ORG,"Companies, agencies, institutions, etc.",202,215
+49,23,CARDINAL,Numerals that do not fall under another type,222,224
+49,kalimin kufitar,PERSON,"People, including fictional",287,302
+49,Kapitan Andreevo,PERSON,"People, including fictional",303,319
+49,Austrinë,ORG,"Companies, agencies, institutions, etc.",389,397
+49,Prokurori,PERSON,"People, including fictional",399,408
+49,Haskovo,ORG,"Companies, agencies, institutions, etc.",428,435
+49,Ivan Stojanov,PERSON,"People, including fictional",437,450
+49,mbyllura,ORG,"Companies, agencies, institutions, etc.",485,493
+49,Anadolu Agency,ORG,"Companies, agencies, institutions, etc.",574,588
+49,20,CARDINAL,Numerals that do not fall under another type,653,655
+50,kanë humbur,PERSON,"People, including fictional",11,22
+50,tyre,PERSON,"People, including fictional",83,87
+50,shtunën,ORG,"Companies, agencies, institutions, etc.",120,127
+50,Franklin Ruzvelt” ku,PERSON,"People, including fictional",139,159
+50,kanë,PERSON,"People, including fictional",202,206
+50,armë zjarri,PERSON,"People, including fictional",217,228
+50,Seat Altea,PERSON,"People, including fictional",242,252
+50,jetë,PERSON,"People, including fictional",348,352
+50,Naim Ajeti nga Hasanbegu,PERSON,"People, including fictional",353,377
+50,kanë mbetur,PERSON,"People, including fictional",398,409
+50,personat,CARDINAL,Numerals that do not fall under another type,413,421
+50,F. A. dhe A. P,PERSON,"People, including fictional",448,462
+50,Maqedoni,ORG,"Companies, agencies, institutions, etc.",481,489
+50,A.P. nuk,PERSON,"People, including fictional",549,557
+50,t’i përballojë plagët,PERSON,"People, including fictional",568,589
+50,jetë,PERSON,"People, including fictional",610,614
+50,është jashtë rrezikut,ORG,"Companies, agencies, institutions, etc.",642,663
+50,jetë,PERSON,"People, including fictional",668,672
+50,30,CARDINAL,Numerals that do not fall under another type,686,688
+50,konstatua vdekja,PERSON,"People, including fictional",833,849
+50,edhe përkrah,PERSON,"People, including fictional",940,952
+50,Ndërsa,PERSON,"People, including fictional",1057,1063
+50,nënshtrua ndërhyrjes kirurgjikale deri në orët,ORG,"Companies, agencies, institutions, etc.",1084,1130
+50,dhe,ORG,"Companies, agencies, institutions, etc.",1155,1158
+50,momentin,PERSON,"People, including fictional",1163,1171
+50,Albet Lleshi,PERSON,"People, including fictional",1267,1279
+50,Motivi,GPE,"Countries, cities, states",1281,1287
+50,kësaj vrasje,PERSON,"People, including fictional",1290,1302
+50,nuk dihet,PERSON,"People, including fictional",1308,1317
+50,Policia,PERSON,"People, including fictional",1319,1326
+50,ngjarjes dhe,PERSON,"People, including fictional",1350,1362
+50,heton sulmuesit,ORG,"Companies, agencies, institutions, etc.",1366,1381
+50,si dhe motivet,ORG,"Companies, agencies, institutions, etc.",1383,1397
+50,Prokurorit Publik,ORG,"Companies, agencies, institutions, etc.",1434,1451
+50,vdekur,NORP,Nationalities or religious or political groups,1478,1484
+50,autopsi,PERSON,"People, including fictional",1500,1507
+50,Institutin,GPE,"Countries, cities, states",1511,1521
+50,Mjekësisë Ligjore,ORG,"Companies, agencies, institutions, etc.",1524,1541
+50,Kriminalistikës,PERSON,"People, including fictional",1543,1558
+50,Deontologjisë,ORG,"Companies, agencies, institutions, etc.",1563,1576
+50,SeatAltea,ORG,"Companies, agencies, institutions, etc.",1599,1608
